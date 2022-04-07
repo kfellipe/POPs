@@ -31,7 +31,7 @@
 
 Abra o <strong>Virtual Box</strong> e localize o <i>lado direito</i> da janela clique em <ins><strong>Novo</strong></ins> ou pressione <ins><strong>Ctrl+N</strong></ins>.
 
-<img src="images/configurandoVM/Step-1.PNG" alt="Lado direito da janela do Virtual Box">
+![Lado direito da janela do Virtual Box](https://user-images.githubusercontent.com/82785675/162192104-afd79248-5c8f-4d7b-b075-cd7e8904b43d.PNG)
 
 <hr>
 
