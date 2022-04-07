@@ -3,7 +3,7 @@
 
 # <strong><i>Documentações recomendadas</i></strong>
 
-> <a href="https://github.com/kfellipe/POPs/tree/master/"><ins>Como criar uma <strong>Máquina Virtual</strong>.</ins></a><br>
+> <a href="https://github.com/kfellipe/POPs/tree/master/Criando-VM"><ins>Como criar uma <strong>Máquina Virtual</strong>.</ins></a><br>
 
 <hr>
 
