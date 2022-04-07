@@ -1,6 +1,12 @@
 
 ># <strong><i>Preparando a Máquina Virtual para instalar o Sistema Operacional</i></strong>
 
+# <strong><i>Documentações recomendadas</i></strong>
+
+> <a href="https://github.com/kfellipe/POPs/tree/master/"><ins>Como criar uma <strong>Máquina Virtual</strong>.</ins></a><br>
+
+<hr>
+
 Para instalar qualquer <strong>Sistema Operacional</strong>, primeiro precisamos realizar o download da <strong>ISO</strong> do <strong>SO</strong> desejado.
 
 <hr>
