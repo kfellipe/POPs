@@ -1,6 +1,13 @@
-># <strong><i>Instalando o Ubuntu</i></strong>
+># <strong><i>Instalando o Ubuntu-Server</i></strong>
 
-Uma tela como essa deverá aparecer.
+## <strong><i>Documentações recomendadas</i></strong>
+
+> <a href="https://github.com/kfellipe/POPs/tree/master/Criando-VM"><ins>Como criar <strong>Máquina Virtual</strong></ins></a><br>
+>  <a href="https://github.com/kfellipe/POPs/tree/master/Preparando-VM"><ins>Como preparar uma <strong>Máquina Virtual</strong> para instalar qualquer <strong>Sistema Operacional</strong></ins></a>
+
+<hr>
+
+Ao iniciar a <strong>Máquina Virtual</strong>, uma tela como essa deverá aparecer.
 
 <img src="https://user-images.githubusercontent.com/82785675/162205926-8a58b5de-eae8-47ae-8ee0-0df7880f1e79.PNG" alt="Ecolhendo o idioma">
 
