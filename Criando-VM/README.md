@@ -8,13 +8,13 @@ Abra o <strong>Virtual Box</strong> e localize o <i>lado direito</i> da janela c
 
 <hr>
 
-Configure o <i>Nome</i>, <i>Tipo</i> e <i>Versão</i> da <strong>Máquina Virtual</strong>, como exemplo de nome coloquei <strong>MySql-Server</strong>, mas pode colocar o nome que quiser, como vamos usar o <strong>Ubuntu</strong> para instalar o <strong>MySql</strong>, Configure a <i>Tipo</i> como <strong>Linux</strong> e a <i>Versão</i> como <strong>Ubuntu (64-bit)</strong>.
+Configure o <i>Nome</i>, <i>Tipo</i> e <i>Versão</i> da <strong>Máquina Virtual</strong>, como exemplo de nome coloquei <strong>MySql-Server</strong>, mas pode colocar o nome que quiser, como exemplo eu usei o <strong>Ubuntu</strong> para instalar o <strong>MySql</strong>, logo então, Configure o <i>Tipo</i> como <strong>Linux</strong> e a <i>Versão</i> como <strong>Ubuntu (64-bit)</strong>.
 
 ![Alterando principais informações sobre a VM](https://user-images.githubusercontent.com/82785675/162192126-31d24b1e-a575-40b6-870f-08e0376612c4.png)
 
 <hr>
 
-Na próxima janela, configuraremos o quanto de <strong>Memória RAM (MegaBytes)</strong> irá ser alocada pra nossa <strong>Máquina Virtual</strong>, eu costumo alocar 2 GigaBytes. Abaixo segue uma tabela mostrando a quantidade de <strong><i>GigaBytes</i></strong> convertido em <strong><i>MegaBytes</i></strong> <i><ins>(1 GigaByte = 1.024 MegaBytes)</ins>.</i>
+Na próxima janela, configuramos o quanto de <strong>Memória RAM (MegaBytes)</strong> irá ser alocada pra nossa <strong>Máquina Virtual</strong>, eu costumo alocar 2 GigaBytes. Abaixo segue uma tabela mostrando a quantidade de <strong><i>GigaBytes</i></strong> convertido em <strong><i>MegaBytes</i></strong> <i><ins>(1 GigaByte = 1.024 MegaBytes)</ins>.</i>
 
 <table>
 
@@ -70,4 +70,4 @@ Com nossa <strong>Máquina Virtual</strong> criada, basta configurar a <strong>M
 
 <br>
 
-> Saiba como preparar uma Máquina Virtual clicando <a href="#"><strong><ins>Aqui</ins></strong></a>.
+> Saiba como preparar uma Máquina Virtual clicando <a href="https://github.com/kfellipe/POPs/tree/master/Preparando-VM"><strong><ins>Aqui</ins></strong></a>.
