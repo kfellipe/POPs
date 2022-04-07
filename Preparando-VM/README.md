@@ -1,7 +1,7 @@
 
 ># <strong><i>Preparando a Máquina Virtual para instalar o Sistema Operacional</i></strong>
 
-Para instalar qualquer <strong>sistema operacional</strong>, primeiro precisamos da <strong>ISO</strong> do mesmo, para isso precisamos fazer o download da <strong>ISO</strong> desejada.
+Para instalar qualquer <strong>Sistema Operacional</strong>, primeiro precisamos realizar o download da <strong>ISO</strong> do <strong>SO</strong> desejado.
 
 <hr>
 
@@ -62,4 +62,4 @@ Com todas as configurações <strong>prontas</strong>, basta clicar em <strong>O
 Pronto! sua <strong>Máquina Virtual</strong> está pronta para instalar o <strong>Sistema Operacional</strong>.
 <br>
 
-> <a href="https://github.com/kfellipe/POPs/tree/master/Instalando-MySql" target="_blank"><strong><ins>Como instalar o Ubuntu</ins></strong></a>
+> <a href="https://github.com/kfellipe/POPs/tree/master/Instalando-Ubuntu-Server" target="_blank"><strong><ins>Como instalar o Ubuntu</ins></strong></a>
