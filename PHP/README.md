@@ -2,11 +2,11 @@
 
 ## Índice
 
-<a href="#">Printando múltiplas informações do Banco de Dados</a>
+<a href="#printando-informacoes-na-tela">Printando múltiplas informações do Banco de Dados</a>
 
 <hr>
 
-## Printando múltiplas informações do Bando de Dados
+## <strong id="printando-informacoes-na-tela">Printando múltiplas informações do Bando de Dados</strong>
 
 <ul>
 <li><a href="#connection">Conexão com o Banco de Dados</a>
