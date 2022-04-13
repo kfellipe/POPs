@@ -14,8 +14,8 @@
 ## <i> <ins>Documentações recomendadas</ins> </i>
 
 <ol>
-    <li><a href="https://github.com/kfellipe/POPs/tree/master/Criando-VM">Como criar uma <strong>Máquina Virtual</strong>.</a></li>
-    <li><a href="https://github.com/kfellipe/POPs/tree/master/Preparando-VM">Como preparar uma <strong>Máquina Virtual</strong> para a instalação de um <strong>sistema operacional</strong>.</a></li>
+    <li><a href="https://github.com/kfellipe/POPs/tree/master/Criando-VM/README.md">Como criar uma <strong>Máquina Virtual</strong>.</a></li>
+    <li><a href="https://github.com/kfellipe/POPs/tree/master/Preparando-VM/README.md">Como preparar uma <strong>Máquina Virtual</strong> para a instalação de um <strong>sistema operacional</strong>.</a></li>
 </ol>
 
 <hr>

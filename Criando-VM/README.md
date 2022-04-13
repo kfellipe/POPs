@@ -70,4 +70,4 @@ Com nossa <strong>Máquina Virtual</strong> criada, basta configurar a <strong>M
 
 <br>
 
-> Saiba como preparar uma Máquina Virtual clicando <a href="https://github.com/kfellipe/POPs/tree/master/Preparando-VM"><strong><ins>Aqui</ins></strong></a>.
+> Saiba como preparar uma Máquina Virtual clicando <a href="https://github.com/kfellipe/POPs/tree/master/Preparando-VM/README.md"><strong><ins>Aqui</ins></strong></a>.

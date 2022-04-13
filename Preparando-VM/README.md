@@ -3,7 +3,7 @@
 
 # <strong><i>Documentações recomendadas</i></strong>
 
-> <a href="https://github.com/kfellipe/POPs/tree/master/Criando-VM"><ins>Como criar uma <strong>Máquina Virtual</strong>.</ins></a><br>
+> <a href="https://github.com/kfellipe/POPs/tree/master/Criando-VM/README.md"><ins>Como criar uma <strong>Máquina Virtual</strong>.</ins></a><br>
 
 <hr>
 
@@ -68,4 +68,4 @@ Com todas as configurações <strong>prontas</strong>, basta clicar em <strong>O
 Pronto! sua <strong>Máquina Virtual</strong> está pronta para instalar o <strong>Sistema Operacional</strong>.
 <br>
 
-> <a href="https://github.com/kfellipe/POPs/tree/master/Instalando-Ubuntu-Server" target="_blank"><strong><ins>Como instalar o Ubuntu</ins></strong></a>
+> <a href="https://github.com/kfellipe/POPs/tree/master/Instalando-Ubuntu-Server/README.md" target="_blank"><strong><ins>Como instalar o Ubuntu</ins></strong></a>
