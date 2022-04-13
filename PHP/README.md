@@ -8,7 +8,14 @@
 
 ## Printando múltiplas informações do Bando de Dados
 
-### 1 - Acessando o banco de dados.
+<ul>
+<li><a href="#connection">Conexão com o Banco de Dados</a>
+<li><a href="#base-table">Tabela de exemplo</a>
+<li><a href="#echo-info">Printando informações</a>
+<li><a href="#echo-infos">Printando múltiplas informações</a>
+</ul>
+
+### 1 - <strong id="connection">Acessando o banco de dados.</strong>
 
 Para acessar o banco de dados, segue a baixo imagens fazendo a conexão com cada API.
 
@@ -20,7 +27,7 @@ Para acessar o banco de dados, segue a baixo imagens fazendo a conexão com cada
 
 <hr>
 
-### 2 - Tabela como base
+### 2 - <strong id="base-table">Tabela como base</strong>
 
 Vamos usar a seguinte tabela como base:
 
@@ -34,9 +41,22 @@ Vamos usar a seguinte tabela como base:
 
 <hr>
 
-### 3 - Printando informações na tela
+### 3 - <strong id="echo-info">Printando informações na tela</strong>
 
 Para printar informações na tela, podemos fazer da seguinte maneira:
 
->Usando PDO:
-<img src="">
+>Usando PDO:<br>
+<img src="https://user-images.githubusercontent.com/82785675/163175955-9258cf04-3523-44a4-b40a-13ec3c546dce.png"><br>
+
+>Usando mysqli:<br>
+<img src="https://user-images.githubusercontent.com/82785675/163176085-ea5f4c4a-26a1-4633-a5de-03719bd1622a.png"><br>
+
+### 4 - <strong id="echo-infos">Printando múltiplas informações na tela</strong>
+
+Para printarmos múltiplas informações na tela, fazemos das seguintes formas:
+
+>Usando PDO:<br>
+<img src="https://user-images.githubusercontent.com/82785675/163180778-6c8e1af1-d412-488f-9c2e-208ca494134a.png"><br>
+
+>Usando mysqli:<br>
+<img src="https://user-images.githubusercontent.com/82785675/163180312-60a28fa7-daf9-4f37-ba6c-8ea345284c9f.png"><br>
